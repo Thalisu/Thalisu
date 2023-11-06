@@ -10,7 +10,7 @@
 
 ## Badges
 <div style="display: inline_block"><br/>
- <img align="center" src="https://www.codewars.com/users/Thalisu/badges/large" alt="Codewar_badge"/ height="100px">
+ <img align="center" src="https://www.codewars.com/users/Thalisu/badges/large" alt="Codewar_badge"/ height="50px">
 </div><br>
 
 #### I’m currently learning more javascript, react and saas 🤓
