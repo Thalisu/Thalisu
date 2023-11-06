@@ -11,7 +11,7 @@
 ## Badges
 <div style="display: inline_block">
  <img align="center" src="https://www.codewars.com/users/Thalisu/badges/large" alt="Codewar_badge"/ height="30px">
-</div><br>
+</div><br><br>
 
 #### I’m currently learning more javascript, react and saas 🤓
 <!--
