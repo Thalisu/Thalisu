@@ -1,5 +1,19 @@
-### Hi there 👋
+### Heyyy welcome 🫡🫡
+## Tecs
+<div style="display: inline_block"><br/>
+ <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5"/>
+ <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SAAS"/>
+ <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+ <img align="center" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React"/>
+</div><br>
 
+## Badges
+<div style="display: inline_block"><br/>
+ <img align="center" src="https://www.codewars.com/users/Thalisu/badges/large" alt="Codewar_badge"/>
+</div><br>
+
+# I’m currently learning more javascript, react and saas 🤓
 <!--
 **Thalisu/Thalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
