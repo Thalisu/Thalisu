@@ -12,7 +12,7 @@
  <img align="center" src="https://www.codewars.com/users/Thalisu/badges/large" alt="Codewar_badge"/ height="30px">
 </div><br><br>
 
-#### I’m currently learning more javascript and react 🤓
+#### I’m currently learning more about back-end and some javascript/react things 🤓
 <!--
 **Thalisu/Thalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
