@@ -1,18 +1,45 @@
-### Heyyy welcome 🫡🫡
+### HI! My name is Thalison
 ## Tecs
-<div style="display: inline_block">
- <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5"/>
- <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
- <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
- <img align="center" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React"/>
-</div><br>
+
+#### Languages
+
+![Static Badge](https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript)
+![Static Badge](https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript)
+
+#### Frameworks
+
+![Static Badge](https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React)
+![Static Badge](https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express)
+
+#### Styles
+
+![Static Badge](https://img.shields.io/badge/CSS3-27272A?style=for-the-badge&logo=css3)
+![Static Badge](https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components)
+![Static Badge](https://img.shields.io/badge/Material%20UI-27272A?style=for-the-badge&logo=Mui)
+
+#### Softwares
+
+![Static Badge](https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js)
+![Static Badge](https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB)
+
+#### Unit testing
+
+![Static Badge](https://img.shields.io/badge/JEST-27272A?style=for-the-badge&logo=JEST)
+![Static Badge](https://img.shields.io/badge/Cypress-27272A?style=for-the-badge&logo=cypress)
 
 ## Badges
-<div style="display: inline_block">
- <img align="center" src="https://www.codewars.com/users/Thalisu/badges/large" alt="Codewar_badge"/ height="30px">
-</div><br><br>
 
-#### I’m currently learning more about back-end and some javascript/react things 🤓
+#### My GitHub Stats
+
+![Static Badge](https://viniciusbastos-readme.vercel.app/api?username=Thalisu&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true)
+![Static Badge](https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages)
+
+#### Coding related badge
+
+![Static Badge](https://www.codewars.com/users/Thalisu/badges/large)
+
+#### I’m currently learning C#, relational DB and another small things 🤓
+
 <!--
 **Thalisu/Thalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
