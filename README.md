@@ -5,11 +5,18 @@
 
 ![Static Badge](https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript)
 ![Static Badge](https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript)
+![Static Badge](https://img.shields.io/badge/GraphQL-27272A?style=for-the-badge&logo=graphql)
 
 #### Frameworks
 
 ![Static Badge](https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React)
 ![Static Badge](https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express)
+
+#### State Management Libraries
+![Static Badge](https://img.shields.io/badge/Redux-27272A?style=for-the-badge&logo=Redux)
+![Static Badge](https://img.shields.io/badge/React%20Query-27272A?style=for-the-badge&logo=reactquery)
+![Static Badge](https://img.shields.io/badge/Apollo%20GraphQl-27272A?style=for-the-badge&logo=ApolloGraphql)
+
 
 #### Styles
 
@@ -22,7 +29,7 @@
 ![Static Badge](https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js)
 ![Static Badge](https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB)
 
-#### Unit testing
+#### Unit Testing
 
 ![Static Badge](https://img.shields.io/badge/JEST-27272A?style=for-the-badge&logo=JEST)
 ![Static Badge](https://img.shields.io/badge/Cypress-27272A?style=for-the-badge&logo=cypress)
