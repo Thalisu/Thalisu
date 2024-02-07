@@ -4,36 +4,90 @@
 
 #### Languages
 
-![Static Badge](https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript)
-![Static Badge](https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript)
-![Static Badge](https://img.shields.io/badge/GraphQL-27272A?style=for-the-badge&logo=graphql)
+<div style="
+  display: flex;
+  background-color: #27272a;
+  max-width: fit-content;
+  border-radius: 5px;
+  pointer-events: none;
+  padding: 0 5px;
+">
+  <img src="https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript"></img>
+  <img src="https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript"></img>
+  <img src="https://img.shields.io/badge/GraphQL-27272A?style=for-the-badge&logo=graphql"></img>
+</div>
 
 #### Frameworks
 
-![Static Badge](https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React)
-![Static Badge](https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express)
+<div style="
+  display: flex;
+  background-color: #27272a;
+  max-width: fit-content;
+  border-radius: 5px;
+  pointer-events: none;
+  padding: 0 5px;
+">
+  <img src="https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React"></img>
+  <img src="https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express"></img>
+</div>
 
 #### State Management Libraries
 
-![Static Badge](https://img.shields.io/badge/Redux-27272A?style=for-the-badge&logo=Redux)
-![Static Badge](https://img.shields.io/badge/React%20Query-27272A?style=for-the-badge&logo=reactquery)
-![Static Badge](https://img.shields.io/badge/Apollo%20GraphQl-27272A?style=for-the-badge&logo=ApolloGraphql)
+<div style="
+  display: flex;
+  background-color: #27272a;
+  max-width: fit-content;
+  border-radius: 5px;
+  pointer-events: none;
+  padding: 0 5px;
+">
+  <img src="https://img.shields.io/badge/Redux-27272A?style=for-the-badge&logo=Redux"></img>
+  <img src="https://img.shields.io/badge/React%20Query-27272A?style=for-the-badge&logo=reactquery"></img>
+  <img src="https://img.shields.io/badge/Apollo%20GraphQl-27272A?style=for-the-badge&logo=ApolloGraphql"></img>
+</div>
 
 #### Styles
 
-![Static Badge](https://img.shields.io/badge/CSS3-27272A?style=for-the-badge&logo=css3)
-![Static Badge](https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components)
-![Static Badge](https://img.shields.io/badge/Material%20UI-27272A?style=for-the-badge&logo=Mui)
+<div style="
+  display: flex;
+  background-color: #27272a;
+  max-width: fit-content;
+  border-radius: 5px;
+  pointer-events: none;
+  padding: 0 5px;
+">
+  <img src="https://img.shields.io/badge/CSS3-27272A?style=for-the-badge&logo=css3"></img>
+  <img src="https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components"></img>
+  <img src="https://img.shields.io/badge/Material%20UI-27272A?style=for-the-badge&logo=Mui"></img>
+</div>
 
 #### Softwares
 
-![Static Badge](https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js)
-![Static Badge](https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB)
+<div style="
+  display: flex;
+  background-color: #27272a;
+  max-width: fit-content;
+  border-radius: 5px;
+  pointer-events: none;
+  padding: 0 5px;
+">
+  <img src="https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js"></img>
+  <img src="https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB"></img>
+</div>
 
 #### Unit Testing
 
-![Static Badge](https://img.shields.io/badge/JEST-27272A?style=for-the-badge&logo=JEST)
-![Static Badge](https://img.shields.io/badge/Cypress-27272A?style=for-the-badge&logo=cypress)
+<div style="
+  display: flex;
+  background-color: #27272a;
+  max-width: fit-content;
+  border-radius: 5px;
+  pointer-events: none;
+  padding: 0 5px;
+">
+  <img src="https://img.shields.io/badge/Cypress-27272A?style=for-the-badge&logo=cypress"></img>
+  <img src="https://img.shields.io/badge/JEST-27272A?style=for-the-badge&logo=JEST"></img>
+</div>
 
 ## Badges
 
