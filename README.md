@@ -1,7 +1,7 @@
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="presentationLight.svg">
-    <img src="presentationDark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="presentationDark.svg">
+    <img src="presentationLight.svg">
   </picture>
 </div>
 
