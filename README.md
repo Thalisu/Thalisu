@@ -53,7 +53,7 @@
 
 #### My GitHub Stats
 
-<div>
+<div  align="left">
   <img width="368" src="https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&amp;langs_count=10&amp;title_color=ef4444&amp;text_color=ffffff&amp;icon_color=ef4444&amp;bg_color=27272a&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages"/>
 
   <img width="368" src="https://viniciusbastos-readme.vercel.app/api?username=Thalisu&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=ef4444&amp;text_color=ffffff&amp;icon_color=ef4444&amp;bg_color=27272a&amp;hide_border=true&amp;show_icons=true" />
