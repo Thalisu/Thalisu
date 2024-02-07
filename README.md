@@ -93,34 +93,17 @@
 
 #### My GitHub Stats
 
-<svg fill="none" width="368" height="480px" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/2000/svg">
-      <div class="badgeStats">
-          <img src="https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" style="width: 368px"></img>
-          <img src="https://viniciusbastos-readme.vercel.app/api?username=Thalisu&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" style="width: 368px"></img>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<div>
+	<a href="https://github.com/Thalisu/githubStats.svg">
+		<img src="githubStats.svg" width="368" height="500" alt="">
+	</a>
+</div>
 
 #### Coding related badge
 
 ![Static Badge](https://www.codewars.com/users/Thalisu/badges/large)
 
 #### I’m currently learning C#, relational DB and finishing FullStackOpen and Kenzie academy.🤓
-
-<style>
-  .badgeStats {
-    display: flex;
-    flex-direction: column;
-    width: 368px;
-    height: fit-content;
-    background-color: #27272a;
-    border-radius: 10px;
-    pointer-events: none;
-  }
-</style>
 
 <!--
 **Thalisu/Thalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

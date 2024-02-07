@@ -1,0 +1,21 @@
+<svg fill="none" width="368" height="480px" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+            .badgeStats {
+            display: flex;
+            flex-direction: column;
+            width: 368px;
+            height: fit-content;
+            background-color: #27272a;
+            border-radius: 10px;
+            pointer-events: none;
+            }
+        </style>
+        <div class="badgeStats">
+            <img src="https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages"></img>
+            <img src="https://viniciusbastos-readme.vercel.app/api?username=Thalisu&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true"></img>
+        </div>
+        </div>
+    </foreignObject>
+</svg>
