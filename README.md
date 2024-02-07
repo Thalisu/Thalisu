@@ -93,18 +93,20 @@
 
 #### My GitHub Stats
 
-<div style="
-  display: flex;
-  flex-direction: column;
-  width: 368px;
-  height: fit-content;
-  background-color: #27272a;
-  border-radius: 10px;
-  box-shadow: box-shadow: 14px 11px 8px -3px rgba(39, 39, 42,1);
-  pointer-events: none;
-  ">
-    <img src="https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" style="click"></img>
-    <img src="https://viniciusbastos-readme.vercel.app/api?username=Thalisu&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true"></img>
+<div> 
+  <div style="
+    display: flex;
+    flex-direction: column;
+    width: 368px;
+    height: fit-content;
+    background-color: #27272a;
+    border-radius: 10px;
+    box-shadow: box-shadow: 14px 11px 8px -3px rgba(39, 39, 42,1);
+    pointer-events: none;
+    ">
+      <img src="https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" style="click"></img>
+      <img src="https://viniciusbastos-readme.vercel.app/api?username=Thalisu&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true"></img>
+  </div>
 </div>
 <br/>
 
