@@ -2,8 +2,7 @@
   <foreignObject width="368px" height="480px">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .badgeStats {
-          visibility: hidden;
+        .container {
           display: flex;
           flex-direction: column;
           width: 368px;
@@ -11,28 +10,12 @@
           background-color: #27272a;
           border-radius: 10px;
           pointer-events: none;
-          animation: show 5s;
-          animation-fill-mode: forwards;
         }
-        @keyframes show {
-          99% {
-          visibility: hidden;
-          }
-
-          100% {
-          visibility: visible;
-          height: auto;
-          width: auto;
-          }
-        }
-
       </style>
-      <div align="center">
-        <div class="badgeStats">
+        <div class="container">
           <img width="368" src="https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&amp;langs_count=10&amp;title_color=ef4444&amp;text_color=ffffff&amp;icon_color=ef4444&amp;bg_color=27272a&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages" />
           <img width="368" src="https://viniciusbastos-readme.vercel.app/api?username=Thalisu&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=ef4444&amp;text_color=ffffff&amp;icon_color=ef4444&amp;bg_color=27272a&amp;hide_border=true&amp;show_icons=true" />
         </div>
-      </div>
     </div>
   </foreignObject>
 </svg>

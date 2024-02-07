@@ -85,7 +85,7 @@
   pointer-events: none;
   padding: 0 5px;
 ">
-  <img src="https://img.shields.io/badge/Cypress-27272A?style=for-the-badge&logo=cypress"></img>
+  <img href="https://img.shields.io/badge/Cypress-27272A?style=for-the-badge&logo=cypress"></img>
   <img src="https://img.shields.io/badge/JEST-27272A?style=for-the-badge&logo=JEST"></img>
 </div>
 
@@ -95,7 +95,8 @@
 
 <div>
   <picture>
-		<img src="githubStats.svg" alt="">
+    <source srcset="./githubStats.svg"/>
+    <img src="githubStats.svg"/>
   </picture>
 </div>
 
