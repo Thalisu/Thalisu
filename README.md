@@ -96,7 +96,8 @@
 <div style="
   display: flex;
   flex-direction: column;
-  max-width: 368px;
+  width: 368px;
+  height: fit-content;
   background-color: #27272a;
   border-radius: 10px;
   box-shadow: box-shadow: 14px 11px 8px -3px rgba(39, 39, 42,1);
