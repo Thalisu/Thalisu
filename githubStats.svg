@@ -3,6 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .badgeStats {
+          visibility: hidden;
           display: flex;
           flex-direction: column;
           width: 368px;
@@ -10,7 +11,21 @@
           background-color: #27272a;
           border-radius: 10px;
           pointer-events: none;
+          animation: show 5s;
+          animation-fill-mode: forwards;
         }
+        @keyframes show {
+          99% {
+          visibility: hidden;
+          }
+
+          100% {
+          visibility: visible;
+          height: auto;
+          width: auto;
+          }
+        }
+
       </style>
       <div align="center">
         <div class="badgeStats">
