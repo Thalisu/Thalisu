@@ -1,0 +1,21 @@
+<svg fill="none" width="368" height="480px" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+            .badgeStats {
+                display: flex;
+                flex-direction: column;
+                width: 368px;
+                height: 440px;
+                background-color: #27272a;
+                border-radius: 10px;
+                pointer-events: none;
+            }
+        </style>
+        <div class="badgeStats">
+            <image href="./githubStats - test.svg" width="368" height="245"/>
+            <image href="./githubStats 2.svg" width="368" height="195"/>
+        </div>
+    </div>
+  </foreignObject>
+</svg>

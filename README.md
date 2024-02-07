@@ -94,7 +94,7 @@
 #### My GitHub Stats
 
 <div>
-	<a href="https://github.com/Thalisu/Thalisu/blob/main/githubStats.svg">
+	<a href="https://github.com/Thalisu/Thalisu/blob/main/merge.svg">
 		<img src="githubStats.svg" width="368" height="500" alt="">
 	</a>
 </div>
