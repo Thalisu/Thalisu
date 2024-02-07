@@ -93,9 +93,9 @@
 
 #### My GitHub Stats
 
-<svg fill="none" width="368" height="480px">
+<svg fill="none" width="368" height="480px" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div>
+    <div xmlns="http://www.w3.org/2000/svg">
       <style>
         .badgeStats {
           display: flex;
