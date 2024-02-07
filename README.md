@@ -93,20 +93,9 @@
 
 #### My GitHub Stats
 
-<div> 
-  <div style="
-    display: flex;
-    flex-direction: column;
-    width: 368px;
-    height: fit-content;
-    background-color: #27272a;
-    border-radius: 10px;
-    box-shadow: box-shadow: 14px 11px 8px -3px rgba(39, 39, 42,1);
-    pointer-events: none;
-    ">
-      <img src="https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" style="width: 368px"></img>
-      <img src="https://viniciusbastos-readme.vercel.app/api?username=Thalisu&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" style="width: 368px"></img>
-  </div>
+<div class="badgeStats"> 
+    <img src="https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" style="width: 368px"></img>
+    <img src="https://viniciusbastos-readme.vercel.app/api?username=Thalisu&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" style="width: 368px"></img>
 </div>
 <br/>
 
@@ -115,6 +104,19 @@
 ![Static Badge](https://www.codewars.com/users/Thalisu/badges/large)
 
 #### I’m currently learning C#, relational DB and finishing FullStackOpen and Kenzie academy.🤓
+
+<style>
+  .badgeStats {
+    display: flex;
+    flex-direction: column;
+    width: 368px;
+    height: fit-content;
+    background-color: #27272a;
+    border-radius: 10px;
+    box-shadow: box-shadow: 14px 11px 8px -3px rgba(39, 39, 42,1);
+    pointer-events: none;
+  }
+</style>
 
 <!--
 **Thalisu/Thalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
