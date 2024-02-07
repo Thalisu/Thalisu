@@ -1,5 +1,8 @@
 <div>
-  <img src="./apresentation.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="presentationDark.svg#gh-dark-mode-only">
+    <img src="presentationLight.svg#gh-dark-mode-only">
+  </picture>
 </div>
 
 ## Tecs

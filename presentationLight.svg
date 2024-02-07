@@ -16,7 +16,7 @@
         .container {
           background-color: transparent;
           width: 100%;
-          display: flex;
+          display: flex; 
           color: white;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
