@@ -1,17 +1,12 @@
-### HI! My name is Thalison
+<div>
+  <img src="./apresentation.svg">
+</div>
 
 ## Tecs
 
 #### Languages
 
-<div style="
-  display: flex;
-  background-color: #27272a;
-  max-width: fit-content;
-  border-radius: 5px;
-  pointer-events: none;
-  padding: 0 5px;
-">
+<div>
   <img src="https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript"></img>
   <img src="https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript"></img>
   <img src="https://img.shields.io/badge/GraphQL-27272A?style=for-the-badge&logo=graphql"></img>
@@ -19,28 +14,14 @@
 
 #### Frameworks
 
-<div style="
-  display: flex;
-  background-color: #27272a;
-  max-width: fit-content;
-  border-radius: 5px;
-  pointer-events: none;
-  padding: 0 5px;
-">
+<div>
   <img src="https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React"></img>
   <img src="https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express"></img>
 </div>
 
 #### State Management Libraries
 
-<div style="
-  display: flex;
-  background-color: #27272a;
-  max-width: fit-content;
-  border-radius: 5px;
-  pointer-events: none;
-  padding: 0 5px;
-">
+<div>
   <img src="https://img.shields.io/badge/Redux-27272A?style=for-the-badge&logo=Redux"></img>
   <img src="https://img.shields.io/badge/React%20Query-27272A?style=for-the-badge&logo=reactquery"></img>
   <img src="https://img.shields.io/badge/Apollo%20GraphQl-27272A?style=for-the-badge&logo=ApolloGraphql"></img>
@@ -48,14 +29,7 @@
 
 #### Styles
 
-<div style="
-  display: flex;
-  background-color: #27272a;
-  max-width: fit-content;
-  border-radius: 5px;
-  pointer-events: none;
-  padding: 0 5px;
-">
+<div>
   <img src="https://img.shields.io/badge/CSS3-27272A?style=for-the-badge&logo=css3"></img>
   <img src="https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components"></img>
   <img src="https://img.shields.io/badge/Material%20UI-27272A?style=for-the-badge&logo=Mui"></img>
@@ -63,28 +37,14 @@
 
 #### Softwares
 
-<div style="
-  display: flex;
-  background-color: #27272a;
-  max-width: fit-content;
-  border-radius: 5px;
-  pointer-events: none;
-  padding: 0 5px;
-">
+<div>
   <img src="https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js"></img>
   <img src="https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB"></img>
 </div>
 
 #### Unit Testing
 
-<div style="
-  display: flex;
-  background-color: #27272a;
-  max-width: fit-content;
-  border-radius: 5px;
-  pointer-events: none;
-  padding: 0 5px;
-">
+<div>
   <img href="https://img.shields.io/badge/Cypress-27272A?style=for-the-badge&logo=cypress"></img>
   <img src="https://img.shields.io/badge/JEST-27272A?style=for-the-badge&logo=JEST"></img>
 </div>
@@ -94,10 +54,9 @@
 #### My GitHub Stats
 
 <div>
-  <picture>
-    <source srcset="./githubStats.svg"/>
-    <img src="githubStats.svg"/>
-  </picture>
+  <img width="368" src="https://viniciusbastos-readme.vercel.app/api/top-langs/?username=Thalisu&amp;langs_count=10&amp;title_color=ef4444&amp;text_color=ffffff&amp;icon_color=ef4444&amp;bg_color=27272a&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages"/>
+
+  <img width="368" src="https://viniciusbastos-readme.vercel.app/api?username=Thalisu&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=ef4444&amp;text_color=ffffff&amp;icon_color=ef4444&amp;bg_color=27272a&amp;hide_border=true&amp;show_icons=true" />
 </div>
 
 #### Coding related badge
