@@ -19,6 +19,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React"></img>
+    <img src="https://img.shields.io/badge/Angular-27272A?style=for-the-badge&logo=Angular"></img>
   <img src="https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express"></img>
 </div>
 
