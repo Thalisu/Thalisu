@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript"></img>
   <img src="https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript"></img>
   <img src="https://img.shields.io/badge/GraphQL-27272A?style=for-the-badge&logo=graphql"></img>
+  <img src="https://img.shields.io/badge/yaml-27272A?style=for-the-badge&logo=yaml"></img>
 </div>
 
 #### Frameworks
