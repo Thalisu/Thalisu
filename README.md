@@ -45,6 +45,7 @@
 <div>
   <img src="https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js"></img>
   <img src="https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB"></img>
+  <img src="https://img.shields.io/badge/PostgreSQL-27272A?style=for-the-badge&logo=PostgreSQL"></img>
 </div>
 
 #### Unit Testing
