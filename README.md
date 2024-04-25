@@ -36,6 +36,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/CSS3-27272A?style=for-the-badge&logo=css3"></img>
+  <img src="https://img.shields.io/badge/sass-27272A?style=for-the-badge&logo=sass"></img>
   <img src="https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components"></img>
   <img src="https://img.shields.io/badge/Material%20UI-27272A?style=for-the-badge&logo=Mui"></img>
 </div>
