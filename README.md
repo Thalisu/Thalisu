@@ -20,6 +20,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/React && React Native-27272A?style=for-the-badge&logo=React"></img>
+  <img src="https://img.shields.io/badge/next-27272A?style=for-the-badge&logo=nextdotjs"></img>
   <img src="https://img.shields.io/badge/Angular-27272A?style=for-the-badge&logo=Angular"></img>
   <img src="https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express"></img>
 </div>
@@ -36,6 +37,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/CSS3-27272A?style=for-the-badge&logo=css3"></img>
+    <img src="https://img.shields.io/badge/tailwind-27272A?style=for-the-badge&logo=tailwindcss"></img>
   <img src="https://img.shields.io/badge/sass-27272A?style=for-the-badge&logo=sass"></img>
   <img src="https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components"></img>
   <img src="https://img.shields.io/badge/Material%20UI-27272A?style=for-the-badge&logo=Mui"></img>
