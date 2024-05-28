@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-27272A?style=for-the-badge&logo=PostgreSQL"></img>
 </div>
 
-#### Unit Testing
+#### Tests
 
 <div>
   <img src="https://img.shields.io/badge/Cypress-27272A?style=for-the-badge&logo=Cypress"></img>
