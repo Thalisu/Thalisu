@@ -73,7 +73,7 @@
 
 ![Static Badge](https://www.codewars.com/users/Thalisu/badges/large)
 
-#### I’m currently learning C#, relational DB and finishing FullStackOpen and Kenzie academy.🤓
+#### Currently learning more about PostgreSQL.🤓
 
 <!--
 **Thalisu/Thalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
