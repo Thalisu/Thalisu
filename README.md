@@ -12,6 +12,7 @@
 <div>
   <img src="https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript"></img>
   <img src="https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript"></img>
+  <img src="https://img.shields.io/badge/python-27272A?style=for-the-badge&logo=python"></img>
   <img src="https://img.shields.io/badge/GraphQL-27272A?style=for-the-badge&logo=graphql"></img>
   <img src="https://img.shields.io/badge/yaml-27272A?style=for-the-badge&logo=yaml"></img>
 </div>
@@ -22,6 +23,7 @@
   <img src="https://img.shields.io/badge/React && React Native-27272A?style=for-the-badge&logo=React"></img>
   <img src="https://img.shields.io/badge/next-27272A?style=for-the-badge&logo=nextdotjs"></img>
   <img src="https://img.shields.io/badge/Angular-27272A?style=for-the-badge&logo=Angular"></img>
+    <img src="https://img.shields.io/badge/django-27272A?style=for-the-badge&logo=django"></img>
   <img src="https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express"></img>
 </div>
 
@@ -49,7 +51,6 @@
   <img src="https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js"></img>
   <img src="https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB"></img>
   <img src="https://img.shields.io/badge/PostgreSQL-27272A?style=for-the-badge&logo=PostgreSQL"></img>
-  <img src="https://img.shields.io/badge/Docker-27272A?style=for-the-badge&logo=docker"></img>
 </div>
 
 #### Tests
@@ -73,7 +74,7 @@
 
 ![Static Badge](https://www.codewars.com/users/Thalisu/badges/large)
 
-#### Currently learning more about PostgreSQL.🤓
+#### I’m currently learning more about Django and python.🤓
 
 <!--
 **Thalisu/Thalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
