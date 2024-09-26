@@ -20,11 +20,17 @@
 #### Frameworks
 
 <div>
-  <img src="https://img.shields.io/badge/React && React Native-27272A?style=for-the-badge&logo=React"></img>
   <img src="https://img.shields.io/badge/next-27272A?style=for-the-badge&logo=nextdotjs"></img>
   <img src="https://img.shields.io/badge/Angular-27272A?style=for-the-badge&logo=Angular"></img>
     <img src="https://img.shields.io/badge/django-27272A?style=for-the-badge&logo=django"></img>
   <img src="https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express"></img>
+</div>
+
+#### Libs
+
+<div>
+  <img src="https://img.shields.io/badge/React && React Native-27272A?style=for-the-badge&logo=React"></img>
+  <img src="https://img.shields.io/badge/Apollo%20GraphQl-27272A?style=for-the-badge&logo=ApolloGraphql"></img>
 </div>
 
 #### State Management Libraries
@@ -32,7 +38,7 @@
 <div>
   <img src="https://img.shields.io/badge/Redux-27272A?style=for-the-badge&logo=Redux"></img>
   <img src="https://img.shields.io/badge/React%20Query-27272A?style=for-the-badge&logo=reactquery"></img>
-  <img src="https://img.shields.io/badge/Apollo%20GraphQl-27272A?style=for-the-badge&logo=ApolloGraphql"></img>
+
 </div>
 
 #### Styles
