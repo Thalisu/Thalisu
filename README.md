@@ -22,8 +22,9 @@
 <div>
   <img src="https://img.shields.io/badge/next-27272A?style=for-the-badge&logo=nextdotjs"></img>
   <img src="https://img.shields.io/badge/Angular-27272A?style=for-the-badge&logo=Angular"></img>
-    <img src="https://img.shields.io/badge/django-27272A?style=for-the-badge&logo=django"></img>
+  <img src="https://img.shields.io/badge/django-27272A?style=for-the-badge&logo=django"></img>
   <img src="https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express"></img>
+  <img src="https://img.shields.io/badge/NestJS-27272A?style=for-the-badge&logo=Nestjs"></img>
 </div>
 
 #### Libs
