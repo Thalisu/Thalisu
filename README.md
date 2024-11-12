@@ -82,7 +82,7 @@
 
 ![Static Badge](https://www.codewars.com/users/Thalisu/badges/large)
 
-#### I’m currently learning more about Nest.
+#### I’m currently learning more about data structures and algorithms.
 
 <!--
 **Thalisu/Thalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
