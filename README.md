@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/django-27272A?style=for-the-badge&logo=django"></img>
   <img src="https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express"></img>
   <img src="https://img.shields.io/badge/NestJS-27272A?style=for-the-badge&logo=Nestjs"></img>
+  <img src="https://img.shields.io/badge/FastApi-27272A?style=for-the-badge&logo=fastapi"></img>
 </div>
 
 #### Libs
