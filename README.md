@@ -7,13 +7,17 @@
 
 ## Tecs
 
-#### Languages
+#### Programming Languages
 
 <div>
   <img src="https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript"></img>
   <img src="https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript"></img>
   <img src="https://img.shields.io/badge/python-27272A?style=for-the-badge&logo=python"></img>
   <img src="https://img.shields.io/badge/C-27272A?style=for-the-badge&logo=c"></img>
+    <img src="https://img.shields.io/badge/c%23-27272A?style=for-the-badge&logo=c-sharp"></img>
+
+
+#### Other languages
   <img src="https://img.shields.io/badge/GraphQL-27272A?style=for-the-badge&logo=graphql"></img>
   <img src="https://img.shields.io/badge/yaml-27272A?style=for-the-badge&logo=yaml"></img>
 </div>
@@ -27,6 +31,7 @@
   <img src="https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express"></img>
   <img src="https://img.shields.io/badge/NestJS-27272A?style=for-the-badge&logo=Nestjs"></img>
   <img src="https://img.shields.io/badge/FastApi-27272A?style=for-the-badge&logo=fastapi"></img>
+  <img src="https://img.shields.io/badge/.net-27272A?style=for-the-badge&logo=dotnet"></img>
 </div>
 
 #### Libs
@@ -84,7 +89,7 @@
 
 ![Static Badge](https://www.codewars.com/users/Thalisu/badges/large)
 
-#### I’m currently learning more about data structures and algorithms.
+#### I’m currently learning more about c#.
 
 <!--
 **Thalisu/Thalisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
